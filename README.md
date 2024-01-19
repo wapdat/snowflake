@@ -2,6 +2,8 @@
 
 This repository provides a practical example of integrating the Snowflake Database with Node.js using the Snowflake SDK. It's a resource for developers who need a straightforward, executable guide to connect Node.js applications with Snowflake.
 
+It's pretty much just this https://docs.snowflake.com/en/developer-guide/node-js/nodejs-driver but simplified
+
 ## Quickstart
 
 ### Prerequisites
