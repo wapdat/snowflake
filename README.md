@@ -26,7 +26,7 @@ It's pretty much just this https://docs.snowflake.com/en/developer-guide/node-js
 2. **Install Dependencies**:
    ```bash
    cd snowflake
-   npm install snowflake-sdk'
+   npm install snowflake-sdk
    ```
 3. **Configure Credentials**:
    Add your Snowflake credentials (username, password and account) into the script.
