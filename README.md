@@ -73,6 +73,6 @@ Contributions are welcome. The project is under the MIT License.
 ## Contact
 
 - Your Name: Lindsay
-- Project Link: [https://github.com/wapdat/snowflake
+- Project Link: https://github.com/wapdat/snowflake
 ---
 
