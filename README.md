@@ -24,7 +24,7 @@ This repository provides a practical example of integrating the Snowflake Databa
 2. **Install Dependencies**:
    ```bash
    cd snowflake
-   npm install
+   npm install snowflake-sdk'
    ```
 3. **Configure Credentials**:
    Add your Snowflake credentials (username, password and account) into the script.
