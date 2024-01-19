@@ -29,13 +29,13 @@ This repository provides a practical example of integrating the Snowflake Databa
 3. **Configure Credentials**:
    Add your Snowflake credentials (username, password and account) into the script.
 
-      ```js
-let user = 'lindsay'; // Your username that you login to the Sowflake web UI
-let password = "XXXXXXXXXXXXXXXXXXXXXX";
-let application = '';
-// get this "account' value as the first part of your Dedicated Login URL you get on your invite email
-// https://ruubhom-ua60212.snowflakecomputing.com
-let account = 'ruubhom-ua60212';
+      ```javascript
+   let user = 'lindsay'; // Your username that you login to the Sowflake web UI
+   let password = "XXXXXXXXXXXXXXXXXXXXXX";
+   let application = '';
+   // get this "account' value as the first part of your Dedicated Login URL you get on your invite email
+   // https://ruubhom-ua60212.snowflakecomputing.com
+   let account = 'ruubhom-ua60212';
    ```
    
 ### Running Examples
@@ -66,7 +66,7 @@ Disconnected connection with id: 61978a15-f894-4e50-82ad-c1e49bd1f85d
 
 ## Contributions and License
 
-Contributions are welcome. The project is under the MIT License - see the `LICENSE` file for details.
+Contributions are welcome. The project is under the MIT License.
 
 ## Contact
 
